@@ -1,6 +1,6 @@
 {
   "name": "victory-heatmap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Victory Component",
   "main": "lib/index.js",
   "repository": {
