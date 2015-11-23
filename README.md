@@ -1,9 +1,9 @@
 [![Travis Status][trav_img]][trav_site]
 
-Starter Victory Component
-=========================
+Victory Heatmap
+================
 
-UPDATE THIS README!
+**IMPORTANT** This project is not in a useable state.
 
 ## Development
 
@@ -15,4 +15,3 @@ Please see [CONTRIBUTING](CONTRIBUTING.md)
 
 [trav_img]: https://api.travis-ci.org/FormidableLabs/victory-heatmap.svg
 [trav_site]: https://travis-ci.org/FormidableLabs/victory-heatmap
-
